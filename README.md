@@ -1,5 +1,5 @@
 <!--
-  Title: Spark Button
+  Title: Spark Button - A WonderFull Designs for Buttons
   Description: Highly customizable and lightweight library that allows you to create a button with animation effect similar to Twitter's heart animation.
   Author: varunest
   -->
